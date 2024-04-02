@@ -18,7 +18,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [frontendmentor.io/solutions/time-tracking-dashboard](https://www.frontendmentor.io/solutions/time-tracking-dashboard)
+- Solution URL: [frontendmentor.io/solutions/time-tracking-dashboard](https://www.frontendmentor.io/solutions/time-tracking-dashboard-using-reactjs-er1Lafs1_Y)
 
 ## My process
 
